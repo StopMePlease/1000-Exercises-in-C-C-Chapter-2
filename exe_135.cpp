@@ -14,6 +14,7 @@ double Result(double a[], int n)
 			return a[i];
 		}
 	}
+	return = -1;
 }
 
 int main()
