@@ -7,7 +7,8 @@ using namespace std;
 
 int main()
 {
-	int n, a[100];
+	int n;
+	double a[100];
 	cout << "Input n: ";
 	cin >> n;
 
