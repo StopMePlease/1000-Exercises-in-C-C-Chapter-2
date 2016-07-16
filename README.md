@@ -38,7 +38,7 @@ Exe_143: Tìm "vị trí số chẵn đầu tiên" trong mảng 1 chiều các s
 
 Exe_144: Tìm "số nguyên tố đầu tiên" trong mảng 1 chiều các số nguyên. Nếu không có trả về -1
 
-Exe_145: Tìm "vị trí của giá trị chẵn đầu tiên" trong mảng 1 chiều các số nguyên. Nếu không có trả về -1
+Exe_145: Tìm "số hoàn thiện đầu tiên" trong mảng 1 chiều các số nguyên. Nếu không có trả về -1
 
 Exe_146: Tìm "giá trị âm đầu tiên" trong mảng 1 chiều các số thực. Nếu không có trả về -1
 
