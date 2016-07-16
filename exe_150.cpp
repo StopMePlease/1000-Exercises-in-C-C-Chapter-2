@@ -19,7 +19,7 @@ double Result(double a[], int n)
 		}
 	}
 
-	for(int i = vt; i < n; i++)
+	for(int i = vt + 1; i < n; i++)
 	{
 		if(a[i] < 0 && a[i] < min)
 		{
