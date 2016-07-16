@@ -57,3 +57,31 @@ Exe_152: Tìm "số hoàn thiện nhỏ nhất" trong mảng 1 chiều các số
 Exe_153: Tìm "giá trị chẵn nhỏ nhất" trong mảng 1 chiều các số nguyên. Nếu không có trả về -1
 
 Exe_154: Tìm "vị trí giá trị âm lớn nhất" trong mảng 1 chiều các số thực. Nếu không có trả về -1
+
+Exe_155: Hãy tìm giá trị trong mảng các số thực "xa giá trị x nhất"
+
+        vd: 24|45|23|13|43|-12
+        
+        giá trị x: 15. Khoảng cách từ x tới các pt khác trong mảng là:
+        
+            9|30|8|2|28|27
+            
+        giá trị trong mảng xa x nhất là: 45
+
+Exe_156: Hãy tìm giá trị trong mảng các số thực "gần giá trị x nhất"
+
+        vd: 24|45|23|13|43|-12
+        
+        giá trị x: 15. Khoảng cách từ x tới các pt khác trong mảng là:
+        
+            9|30|8|2|28|27
+            
+        giá trị trong mảng gần x nhất là: 13
+
+Exe_157: Cho mảng 1 chiều các số thực hãy tìm đoạn [a, b] sao cho đoạn này chứa tất cả các giá trị trong mảng
+
+Exe_158: Cho mảng 1 chiều các số thực hãy tìm giá trị x sao cho [-x,x] chứa tất cả các giá trị trong mảng
+
+Exe_159: Cho mảng 1 chiều các số thực hãy tìm giá trị đầu tiên lớn hơn giá trị 2003. Nếu k có thì trả về 0
+
+Exe_160: Cho mảng 1 chiều các số thực hãy viết hàm tìm giá trị âm cuối cùng lớn hơn giá trị -1. Nếu k có thì trả về 0
