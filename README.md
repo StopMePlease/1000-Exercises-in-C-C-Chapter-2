@@ -85,3 +85,73 @@ Exe_158: Cho mảng 1 chiều các số thực hãy tìm giá trị x sao cho [-
 Exe_159: Cho mảng 1 chiều các số thực hãy tìm giá trị đầu tiên lớn hơn giá trị 2003. Nếu k có thì trả về 0
 
 Exe_160: Cho mảng 1 chiều các số thực hãy viết hàm tìm giá trị âm cuối cùng lớn hơn giá trị -1. Nếu k có thì trả về 0
+
+Exe_161: Cho mảng 1 chiều các số nguyên hãy tìm giá trị đầu tiên trong mảng nằm trong khoảng (x,y) cho trước. Nếu k có thì trả về x
+
+Exe_162: Cho mảng 1 chiều các số thực. Hãy viết hàm tìm 1 vị trí trong mảng thỏa 2 điều kiện: có 2 giá trị lân cận và giá trị tại vị trí đó bằng tích 2 giá trị lân cận. Nếu k có thì trả về -1
+
+Exe_163: Tìm số chính phương đầu tiên trong mảng 1 chiều các số nguyên
+
+Exe_164: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm giá trị đầu tiên thỏa tính chất số gánh
+
+Exe_165: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm giá trị đầu tiên có chữ số đầu tiên là chữ số lẻ. Nếu k có trả về 0
+
+Exe_166: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm giá trị đầu tiên có dạng 2^k. Nếu k có trả về 0
+
+Exe_167: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm giá trị đầu tiên thỏa điều kiện toàn chữ số lẻ và là giá trị lớn nhất thỏa điều kiện ấy. Nếu k có trả về 0
+
+Exe_168: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm giá trị đầu tiên có dạng 5^k. Nếu k có trả về 0
+
+Exe_169: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm số chẵn lớn nhất nhỏ hơn mọi giá trị lẻ có trong mảng
+
+Exe_170: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm số nguyên tố nhỏ nhất lớn hơn mọi giá trị có trong mảng
+
+Exe_171: Cho mảng 1 chiều các số nguyên dương, hãy viết hàm tìm UCLN của tất cả các phần tử có trong mảng
+
+Exe_172: Cho mảng 1 chiều các số nguyên dương, hãy viết hàm tìm BCNN của tất cả các phần tử có trong mảng
+
+Exe_173: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm chữ số xuất hiện ít nhất trong mảng
+
+Exe_174: Cho mảng số thực nhiều hơn 2 vị trí và các giá trị trong mảng khác nhau từng đôi một. Hãy viết hàm liệt kê tất cả các cặp giá trị (a,b) trong mảng thỏa điều kiện a<= b
+
+Exe_175: Cho mảng số thực nhiều hơn 2 vị trí và các giá trị trong mảng khác nhau từng đôi một. Hãy viết hàm 2 giá trị gần nhau nhất trong mảng
+
+// Các bài tập tìm kiếm và liệt kê
+
+Exe_176: Hãy liệt kê các số âm trong mảng 1 chiều các số thực
+
+Exe_177: Hãy liệt kê các giá trị trong mảng 1 chiều các số thực thuộc đoạn [x,y] cho trước
+
+Exe_178: Hãy liệt kê các giá trị chẵn trong mảng 1 chiều các số nguyên thuộc đoạn [x,y] cho trước
+
+Exe_179: Hãy liệt kê các giá trị trong mảng mà thỏa điều kiện lớn hơn trị tuyệt đối của giá trị liền sau nó
+
+Exe_180: Hãy liệt kê các giá trị trong mảng mà thỏa điều kiện nhỏ hơn trị tuyệt đối của giá trị đứng liền sau nó và lớn hơn giá trị đứng liền trước đó
+
+Exe_181: Cho mảng 1 chiều các số nguyên. Hãy liệt kê các giá trị chẵn có ít nhất 1 lân cận cũng là giá trị chẵn
+
+Exe_182: Cho mảng 1 chiều các số thực. Hãy liệt kê các giá trị có ít nhất 1 lân cận trái dấu với nó
+
+Exe_183:
+
+Exe_184: Hãy liệt kê các vị trí mà giá trị tại đó là số nguyên tố trong mảng 1 chiều các số nguyên
+
+Exe_185: Hãy liệt kê các vị trí mà giá trị tại đó là số chình phương trong mảng 1 chiều các số nguyên
+
+Exe_186: Hãy liệt kê các vị trí mà giá trị tại đó bằng giá trị âm đầu tiên trong mảng 1 chiều các số thực
+
+Exe_187: Hãy liệt kê các vị trí mà giá trị tại đó bằng giá trị dương nhỏ nhất trong mảng 1 chiều các số thực
+
+Exe_188:
+
+Exe_189: Hãy liệt kê các giá trị tại đó có chữ số đầu tiên là chữ số lẻ trong mảng số nguyên
+
+Exe_190: Hãy liệt kê các giá trị có toàn chữ số lẻ trong mảng 1 chiều các số nguyên
+
+Exe_191: Hãy liệt kê các giá trị cực đại trong mảng 1 chiều các số thục. 1 giá trị dc gọi là cực đại khi lớn hơn các phần tử lân cận
+
+Exe_192: Hãy liệt kê các giá trị trong mảng 1 chiều các số nguyên có chữ số đầu tiên là chữ số chẵn
+
+Exe_193: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm giá trị đầu tiên có dạng 3^k. Nếu k có trả về 0
+
+Exx_194: 
