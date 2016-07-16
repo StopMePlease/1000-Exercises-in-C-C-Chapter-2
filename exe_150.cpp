@@ -18,6 +18,11 @@ double Result(double a[], int n)
 			break;
 		}
 	}
+	
+	if(vt == -1)
+	{
+		return sum;
+	}
 
 	for(int i = vt + 1; i < n; i++)
 	{
