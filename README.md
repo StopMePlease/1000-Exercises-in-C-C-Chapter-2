@@ -82,7 +82,7 @@ Exe_157: Cho mảng 1 chiều các số thực hãy tìm đoạn [a, b] sao cho 
 
 Exe_158: Cho mảng 1 chiều các số thực hãy tìm giá trị x sao cho [-x,x] chứa tất cả các giá trị trong mảng
 
-Exe_159: Cho mảng 1 chiều các số thực hãy tìm giá trị đầu tiên lớn hơn giá trị 2003. Nếu k có thì trả về 0
+Exe_159: Cho mảng 1 chiều các số thực hãy tìm giá trị đầu tiên lớn hơn giá trị x. Nếu k có thì trả về 0
 
 Exe_160: Cho mảng 1 chiều các số thực hãy viết hàm tìm giá trị âm cuối cùng lớn hơn giá trị -1. Nếu k có thì trả về 0
 
