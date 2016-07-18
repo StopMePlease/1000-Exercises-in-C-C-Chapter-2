@@ -154,4 +154,10 @@ Exe_192: Hãy liệt kê các giá trị trong mảng 1 chiều các số nguyê
 
 Exe_193: Cho mảng 1 chiều các số nguyên, hãy viết hàm tìm giá trị đầu tiên có dạng 3^k. Nếu k có trả về 0
 
-Exx_194: 
+Exe_194: Cho mảng số nguyên có nhiều hơn hai giá trị, hãy liệt kê cặp giá trị gần nhau nhất trong mảng
+
+Exe_195: Cho mảng số thực có nhiều hơn ba giá trị, và các giá trị khác nhau từng đôi 1. Hãy liệt kê tất cả các bộ ba giá trị (a, b, c) với a = b + c với a, b, c là 3 giá trị khác nhau trong mảng
+
+Exe_196: Hãy liệt kê các giá trị âm trong mảng 1 chiều các số thực
+
+Exe_197: -> Exe_199: done
