@@ -24,46 +24,6 @@ void Output(int a[], int n)
 	cout << endl;
 }
 
-bool Check(int n)
-{
-	int check = 1;
-
-	if(n % 2 == 0)
-	{
-		return false;
-	}
-	else
-	{
-		while(true)
-		{
-			n /= 3;
-			if(n % 3 != 0)
-			{
-				break;
-			}
-			if( n < 10)
-			{
-				break;
-			}
-		}
-	}
-
-	if(n == 3 || n == 9)
-	{
-		check = 0;
-	}
-
-
-	if( check == 0)
-	{
-		return true;
-	}
-	else
-	{
-		return false;
-	}
-}
-
 void Result(int a[], int n)
 {
 	int vt = 0, vt2 = 1;
