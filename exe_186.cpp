@@ -42,7 +42,7 @@ void Result(int a[], int n)
 	{
 		if(a[i] == ss)
 		{
-			cout << a[i] << "\t";
+			cout << i << "\t";
 		}
 	}
 }
