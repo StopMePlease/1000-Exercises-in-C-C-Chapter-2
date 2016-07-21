@@ -160,6 +160,12 @@ Exe_195: Cho mảng số thực có nhiều hơn ba giá trị, và các giá tr
 
 Exe_196: -> Exe_199: done
 
+//Kỹ thuật tính tổng
+
 Exe_200: Tính tổng các phần tử trong mảng
 
-Exe_201: Tính tổng 
+Exe_201: Tính tổng các giá trị dương trong mảng 1 chiều các số thực
+
+Exe_202: Tính tổng các giá trị 
+
+Exe
