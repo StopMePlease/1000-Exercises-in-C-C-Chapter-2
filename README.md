@@ -159,3 +159,7 @@ Exe_194: Cho mảng số nguyên có nhiều hơn hai giá trị, hãy liệt k�
 Exe_195: Cho mảng số thực có nhiều hơn ba giá trị, và các giá trị khác nhau từng đôi 1. Hãy liệt kê tất cả các bộ ba giá trị (a, b, c) với a = b + c với a, b, c là 3 giá trị khác nhau trong mảng
 
 Exe_196: -> Exe_199: done
+
+Exe_200: Tính tổng các phần tử trong mảng
+
+Exe_201: Tính tổng 
