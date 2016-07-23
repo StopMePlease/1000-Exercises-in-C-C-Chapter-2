@@ -42,9 +42,10 @@ void Output2(int b[], int m)
 	cout << endl;
 }
 
-void Result(int a[], int b[], int n, int m)
+int Result(int a[], int b[], int n, int m)
 {
 	int check;
+	int dem = 0;
 	for(int i = 0; i < n; i++)
 	{
 		check = 0;
@@ -58,7 +59,7 @@ void Result(int a[], int b[], int n, int m)
 		}
 		if(check == 0)
 		{
-			cout << a[i] << endl;
+			dem++;
 		}
 	}
 
@@ -75,9 +76,10 @@ void Result(int a[], int b[], int n, int m)
 		}
 		if(check == 0)
 		{
-			cout << b[i] << endl;
+			dem++;
 		}
 	}
+	return dem;
 }
 
 int main()
@@ -94,7 +96,8 @@ int main()
 	Input2(b, m);
 	Output2(b, m);
 
-	Result(a, b, n, m);
+	int kq = Result(a, b, n, m);
+	cout << kq;
 	
 	return 0;
 }
