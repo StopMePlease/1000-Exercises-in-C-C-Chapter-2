@@ -52,8 +52,9 @@ void Result(int a[], int n)
 				dem++;
 			}
 		}
-
-		cout << a[i] << ": " << dem << endl;
+		
+		if(dem == 1)
+			cout << a[i] << ": " << dem << endl;
 	}
 }
 
