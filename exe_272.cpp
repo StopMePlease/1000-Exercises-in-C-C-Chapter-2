@@ -24,15 +24,6 @@ void Output(int a[], int n)
 	cout << endl;
 }
 
-void Delete(int a[], int &n, int x)
-{
-	for(int i = x - 1; i < n; i++)
-	{
-		a[i] = a[i + 1];
-	}
-	n--;
-}
-
 void Result(int a[], int &n)
 {
 	int max = a[0];
