@@ -67,6 +67,13 @@ void Result(int a[], int &n)
 					j--;
 				}
 			}
+
+			for(int j = i; j < n; j++)
+			{
+				a[j] = a[j + 1];
+			}
+			n--;
+			i--;
 		}
 	}
 }
